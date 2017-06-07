@@ -1,0 +1,53 @@
+
+table {
+  width: 100%;
+  color: #FFFFFF;
+  padding: 25px;
+}
+
+tr {
+  padding: 5px;
+}
+
+tr:nth-child(1) {
+  padding-left: 20px;
+}
+
+td:first-child {
+  padding-left: 20px;
+}
+
+.table-heading {
+  text-transform: uppercase;
+}
+
+.message-type-icon {
+  padding: 15px;
+  font-size: 16px !important;
+}
+
+.table-row-status-icon {
+  font-size: 14px !important;
+}
+
+.channel-details-table-container {
+  padding-top: 20px;
+}
+
+.evenrow{
+  background-color: #000;
+}
+.container{
+  padding-top: 3rem;
+  width: 85%;
+  padding-left: 15%;
+}
+.ChannelList-header{
+  background: #3050a9;
+}
+.ChannelList-row{
+  background: #74a4f2; 
+}
+.ChannelList-tableheader {
+ color: #FFFFFF;
+}

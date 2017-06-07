@@ -1,0 +1,21 @@
+.Search-channel-text{
+  color:#000 !important;
+  margin-right: 2rem;
+   margin-left: 2rem;
+}
+
+.Search-channel{
+  padding-top: 2rem;
+}
+.Search-channel-button{
+  color:#000;
+}
+.errortext
+{
+  color:red;
+  padding-left: 2rem;
+  display: block;
+}
+.hidediv{
+  display: none;
+}

@@ -1,0 +1,10 @@
+.ErrorPage{
+    width: 85%;
+    padding-left: 5%;
+    background: #3050a9;
+    font-size: 25px;
+}
+
+.ErrorPage-error-text{
+  color:red;
+}
