@@ -15,7 +15,7 @@ type 'npm run build'
 Running the application
 -----------------------
 
-Again from within the root folder, type 'npm run start' and visit localhost:3000 in the browser.
+Again from within the root folder, type 'npm run start' and visit localhost:8081 in the browser.
 
 Screenshots
 -----------
